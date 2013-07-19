@@ -1,3 +1,3 @@
-# Website for ZGithub Demo
+# Website for Github Demo
 
 Git Repo demo
